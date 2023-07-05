@@ -10,4 +10,4 @@ Code to run: "QUBO_DMD_ROM.ipynb"
 Data to import: "Limit_Cycle_Unscaled.npy" in /Data/ folder
 
 Notes for execution:
-Change the inputs to the model (number of modes & precision) to compare QUBO and QUBO-QAOA performance with classical DMD
+Change the inputs to the model (number of modes & precision) to investigate QUBO and QUBO-QAOA performance
